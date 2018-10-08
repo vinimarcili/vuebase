@@ -10,7 +10,7 @@ Base com algumas configuraçes para desenvolvimento de projetos.
 
 - [Node.JS](http://nodejs.org)
 
-## Instalação
+## Instalação com Yarn
 ```
 yarn install
 ```
